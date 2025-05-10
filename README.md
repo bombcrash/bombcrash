@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
+  <a href="https://guns.lol/lenzzy">
+    <img src="https://cdn.discordapp.com/attachments/1270313787232358482/1370789112004477010/b1e85faebd5223688016c4a827351ce5.gif?ex=6820c658&is=681f74d8&hm=2caebdd902739b87a6f2203bd78b2aaead66e34ef480e9a44bb060bca05fc28b&" alt="Banner" width="50%">
   </a>
 </p>
 
