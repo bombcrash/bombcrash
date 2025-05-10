@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">Hi !</h1>
+<h1 align="center">Click the picture for my bio</h1>
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/768500113457807430" > -->
