@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/768500113457807430" > -->
   <a href="https://guns.lol/lenzzy" >
-   <img src="https://lanyard.kyrie25.dev/api/768500113457807430?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
+   <img src="https://cdn.discordapp.com/attachments/1270313787232358482/1370789112004477010/b1e85faebd5223688016c4a827351ce5.gif?ex=6820c658&is=681f74d8&hm=2caebdd902739b87a6f2203bd78b2aaead66e34ef480e9a44bb060bca05fc28b&" />
   </a>
   <center>
 <body>
