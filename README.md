@@ -12,7 +12,7 @@
 <h3 align="center">welcome to my GitHub profile</h3>
 
 <p align="center">
-  <strong><a href="https://guns.lol/lenzzy">guns.lol</a></strong> |
+  <strong><a href="https://guns.lol/lenzzy">guns.lol</a></strong>
 </p>
 
 <p align="center">
