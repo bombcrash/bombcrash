@@ -13,8 +13,6 @@
 
 <p align="center">
   <strong><a href="https://guns.lol/lenzzy">guns.lol</a></strong> |
-  <strong><a href="https://namemc.com/profile/bomb_crash.1">namemc</a></strong> |
-  <strong><a href="https://www.youtube.com/@bombcrashh">youtube</a></strong>
 </p>
 
 <p align="center">
