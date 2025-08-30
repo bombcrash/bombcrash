@@ -12,9 +12,9 @@
 <h3 align="center">welcome to my GitHub profile</h3>
 
 <p align="center">
-  <strong><a href="https://guns.lol/lenzzy">guns.lol</a></strong>
+  <strong><a href="https://fakecrime.bio/lenzzy">my bio</a></strong>
 </p>
 
 <p align="center">
-  <a href="https://guns.lol/lenzzy"><img src="https://github-readme-stats.vercel.app/api?username=bombcrash&hide_border=true&show_icons=true" alt="bombcrash's github stats"></a>
+  <a href="https://fakecrime.bio/lenzzy"><img src="https://github-readme-stats.vercel.app/api?username=bombcrash&hide_border=true&show_icons=true" alt="bombcrash's github stats"></a>
 </p>
